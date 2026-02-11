@@ -1,0 +1,7 @@
+Confusion Matrix:
+[[   107      0]
+ [     1 171266]]
+Accuracy: 0.999994164809131
+Matthew Correlation Coefficient (MCC): 0.9953566978564038
+True Positive Rate (TPR): 1.0
+False Positive Rate (FPR): 5.838836436674899e-06

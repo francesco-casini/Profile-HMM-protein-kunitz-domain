@@ -1,0 +1,216 @@
+Threshold: 1000000000000
+Confusion Matrix:
+[[   126      0]
+ [199812      0]]
+Accuracy: 0.0006301953605617742
+Matthew Correlation Coefficient (MCC): 0
+True Positive Rate (TPR): 1.0
+False Positive Rate (FPR): 1.0
+
+Threshold: 100000000000
+Confusion Matrix:
+[[   126      0]
+ [199812      0]]
+Accuracy: 0.0006301953605617742
+Matthew Correlation Coefficient (MCC): 0
+True Positive Rate (TPR): 1.0
+False Positive Rate (FPR): 1.0
+
+Threshold: 10000000000
+Confusion Matrix:
+[[   126      0]
+ [199812      0]]
+Accuracy: 0.0006301953605617742
+Matthew Correlation Coefficient (MCC): 0
+True Positive Rate (TPR): 1.0
+False Positive Rate (FPR): 1.0
+
+Threshold: 1000000000
+Confusion Matrix:
+[[   126      0]
+ [199812      0]]
+Accuracy: 0.0006301953605617742
+Matthew Correlation Coefficient (MCC): 0
+True Positive Rate (TPR): 1.0
+False Positive Rate (FPR): 1.0
+
+Threshold: 100000000
+Confusion Matrix:
+[[   126      0]
+ [199812      0]]
+Accuracy: 0.0006301953605617742
+Matthew Correlation Coefficient (MCC): 0
+True Positive Rate (TPR): 1.0
+False Positive Rate (FPR): 1.0
+
+Threshold: 10000000
+Confusion Matrix:
+[[   126      0]
+ [199812      0]]
+Accuracy: 0.0006301953605617742
+Matthew Correlation Coefficient (MCC): 0
+True Positive Rate (TPR): 1.0
+False Positive Rate (FPR): 1.0
+
+Threshold: 1000000
+Confusion Matrix:
+[[   126      0]
+ [199812      0]]
+Accuracy: 0.0006301953605617742
+Matthew Correlation Coefficient (MCC): 0
+True Positive Rate (TPR): 1.0
+False Positive Rate (FPR): 1.0
+
+Threshold: 100000
+Confusion Matrix:
+[[   126      0]
+ [199812      0]]
+Accuracy: 0.0006301953605617742
+Matthew Correlation Coefficient (MCC): 0
+True Positive Rate (TPR): 1.0
+False Positive Rate (FPR): 1.0
+
+Threshold: 10000
+Confusion Matrix:
+[[   126      0]
+ [199812      0]]
+Accuracy: 0.0006301953605617742
+Matthew Correlation Coefficient (MCC): 0
+True Positive Rate (TPR): 1.0
+False Positive Rate (FPR): 1.0
+
+Threshold: 1000
+Confusion Matrix:
+[[   126      0]
+ [199812      0]]
+Accuracy: 0.0006301953605617742
+Matthew Correlation Coefficient (MCC): 0
+True Positive Rate (TPR): 1.0
+False Positive Rate (FPR): 1.0
+
+Threshold: 100
+Confusion Matrix:
+[[   126      0]
+ [199812      0]]
+Accuracy: 0.0006301953605617742
+Matthew Correlation Coefficient (MCC): 0
+True Positive Rate (TPR): 1.0
+False Positive Rate (FPR): 1.0
+
+Threshold: 10
+Confusion Matrix:
+[[   126      0]
+ [199812      0]]
+Accuracy: 0.0006301953605617742
+Matthew Correlation Coefficient (MCC): 0
+True Positive Rate (TPR): 1.0
+False Positive Rate (FPR): 1.0
+
+Threshold: 1
+Confusion Matrix:
+[[   126      0]
+ [ 91499 108313]]
+Accuracy: 0.542363132571097
+Matthew Correlation Coefficient (MCC): 0.02730283771782134
+True Positive Rate (TPR): 1.0
+False Positive Rate (FPR): 0.45792544992292755
+
+Threshold: 0.1
+Confusion Matrix:
+[[   126      0]
+ [ 25546 174266]]
+Accuracy: 0.8722303914213406
+Matthew Correlation Coefficient (MCC): 0.06542609026249126
+True Positive Rate (TPR): 1.0
+False Positive Rate (FPR): 0.12785017916841832
+
+Threshold: 0.01
+Confusion Matrix:
+[[   126      0]
+ [  1429 198383]]
+Accuracy: 0.9928527843631526
+Matthew Correlation Coefficient (MCC): 0.28363610914613496
+True Positive Rate (TPR): 1.0
+False Positive Rate (FPR): 0.007151722619262106
+
+Threshold: 0.001
+Confusion Matrix:
+[[   126      0]
+ [   143 199669]]
+Accuracy: 0.9992847782812672
+Matthew Correlation Coefficient (MCC): 0.6841536850860404
+True Positive Rate (TPR): 1.0
+False Positive Rate (FPR): 0.0007156727323684263
+
+Threshold: 0.0001
+Confusion Matrix:
+[[   126      0]
+ [    23 199789]]
+Accuracy: 0.999884964338945
+Matthew Correlation Coefficient (MCC): 0.9195326226246884
+True Positive Rate (TPR): 1.0
+False Positive Rate (FPR): 0.00011510820170960703
+
+Threshold: 1e-05
+Confusion Matrix:
+[[   126      0]
+ [     6 199806]]
+Accuracy: 0.9999699906971161
+Matthew Correlation Coefficient (MCC): 0.9769937518931784
+True Positive Rate (TPR): 1.0
+False Positive Rate (FPR): 3.0028226532940963e-05
+
+Threshold: 1e-06
+Confusion Matrix:
+[[   126      0]
+ [     3 199809]]
+Accuracy: 0.999984995348558
+Matthew Correlation Coefficient (MCC): 0.9882962719238954
+True Positive Rate (TPR): 1.0
+False Positive Rate (FPR): 1.5014113266470481e-05
+
+Threshold: 1e-07
+Confusion Matrix:
+[[   125      1]
+ [     0 199812]]
+Accuracy: 0.9999949984495193
+Matthew Correlation Coefficient (MCC): 0.9960213487188888
+True Positive Rate (TPR): 0.9920634920634921
+False Positive Rate (FPR): 0.0
+
+Threshold: 1e-08
+Confusion Matrix:
+[[   125      1]
+ [     0 199812]]
+Accuracy: 0.9999949984495193
+Matthew Correlation Coefficient (MCC): 0.9960213487188888
+True Positive Rate (TPR): 0.9920634920634921
+False Positive Rate (FPR): 0.0
+
+Threshold: 1e-09
+Confusion Matrix:
+[[   125      1]
+ [     0 199812]]
+Accuracy: 0.9999949984495193
+Matthew Correlation Coefficient (MCC): 0.9960213487188888
+True Positive Rate (TPR): 0.9920634920634921
+False Positive Rate (FPR): 0.0
+
+Threshold: 1e-10
+Confusion Matrix:
+[[   125      1]
+ [     0 199812]]
+Accuracy: 0.9999949984495193
+Matthew Correlation Coefficient (MCC): 0.9960213487188888
+True Positive Rate (TPR): 0.9920634920634921
+False Positive Rate (FPR): 0.0
+
+Threshold: 1e-11
+Confusion Matrix:
+[[   125      1]
+ [     0 199812]]
+Accuracy: 0.9999949984495193
+Matthew Correlation Coefficient (MCC): 0.9960213487188888
+True Positive Rate (TPR): 0.9920634920634921
+False Positive Rate (FPR): 0.0
+
