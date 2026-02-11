@@ -14,7 +14,7 @@ Kunitz domains:
 
 * Are small domains (~60 amino acids)
 * Exhibit a conserved fold
-* Are stabilized by **three disulfide bonds (six conserved cysteines)**
+* Are stabilized by *hree disulfide bonds (six conserved cysteines)
 * Appear across diverse taxa
 * Perform varied biological functions:
 
@@ -40,7 +40,7 @@ High-quality structural templates were retrieved from the **RCSB-PDB** database 
 
 ### 2. Model Construction
 
-* A **multiple structure alignment** was performed using **PDBeFold**
+* A multiple structure alignment was performed using **PDBeFold**
 * The structure-guided alignment was converted into a **multiple sequence alignment (MSA)**
 * The MSA served as input for HMM construction using **PyHMMER**
 
@@ -60,8 +60,8 @@ To evaluate model performance:
 ### 4. Model Optimization
 
 * 70% of the dataset used for model tuning
-* **2-fold cross-validation**
-* Systematic evaluation of multiple **E-value thresholds**
+* 2-fold cross-validation
+* Systematic evaluation of multiple E-value thresholds
 * Optimal threshold selected by maximizing the **Matthews Correlation Coefficient (MCC)**
 
 MCC was chosen as the primary metric due to its robustness in imbalanced binary classification settings.
@@ -74,7 +74,7 @@ The final evaluation on the independent test set demonstrated near-perfect perfo
 * **Accuracy:** 0.999
 * **Matthews Correlation Coefficient (MCC):** 0.995
 
-A sequence previously reported as a “false positive” (UniProt ID: **P56409**) was manually investigated and confirmed to be a true Kunitz domain that had been overlooked in traditional annotations.
+A sequence previously reported as a “false positive” (UniProt ID: P56409) was manually investigated and confirmed to be a true Kunitz domain that had been overlooked in traditional annotations.
 
 This result underscores:
 
@@ -100,9 +100,8 @@ The project is implemented in **Python** and integrates the following specialize
   Generation of sequence logos to visualize conserved residues
 
 * **PyHMMER**
-  Profile HMM construction,  searching and statistical evaluation
+  Profile HMM construction, searching and statistical evaluation
 
--
 ## Conclusion
 
 This project demonstrates that structure-guided Profile HMMs provide highly accurate detection of Kunitz domains and can outperform traditional annotation pipelines. The results highlight the importance of combining structural biology and probabilistic modeling for precise domain prediction in protein sequences.
